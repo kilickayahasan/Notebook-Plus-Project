@@ -124,5 +124,6 @@ sys.exit(app.exec_())
 # Contact Me
 
 hasankilickaya44@gmail.com
+
 https://github.com/kilickayahasan/kilickayahasan
 
